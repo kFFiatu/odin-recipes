@@ -1,0 +1,66 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(223, 217, 217);
+}
+
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: gb(45, 75, 19);
+    background-color: rgb(0, 0, 0);
+}
+
+a:visited {
+    color: forestgreen;
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(189, 183, 107)
+}
+
+
+.mainPageH1 {
+    background-color: rgb(0, 0, 0);
+    margin: 0 auto;
+    width: 200px;
+    border-radius: 10px;
+    border: 1px solid darkkhaki;
+
+}
+
+h2#fav-food {
+    text-align: center;
+}
+
+
+.main-card {
+
+    color: rgb(189, 183, 107);
+    text-decoration: underline;
+    background-color: rgb(223, 217, 217);
+    width: 500px;
+    padding: 8px;
+    margin: auto;
+}
+
+.burrito-container,
+.lasagna-container,
+.cacio-container {
+
+    width: 600px;
+    margin: 0px auto;
+    text-align: center;
+
+}
+
+.recipe-links a {
+    color: rgb(189, 183, 107);
+}
+
+
+
+img {
+    width: 500px;
+}
